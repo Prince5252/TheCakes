@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Cakes</string>
+    <string name="business_name">The Cakes Bakery and Cafe</string>
+    <string name="contact_info">Phone number: 073668 29496</string>
+    <string name="address">Address:</string>
+    <string name="address_of_the_business">laxmi chowk, Daudpur Kothi, Muzaffarpur, Bihar 842003</string>
+    <string name="description">Description:</string>
+    <string name="description_of_business">All the basic facilities are available. Availability of air conditioner hall. Available menus are excellent.</string>
+    <string name="bakery_image">bakery image</string>
+</resources>
